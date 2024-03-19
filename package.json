@@ -1,0 +1,26 @@
+{
+  "name": "sit725-2024-t1-prac2",
+  "version": "1.0.0",
+  "description": "practice express",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shreya-bista/sit725-2024-t1-prac2.git"
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "shreya bista",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shreya-bista/sit725-2024-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/shreya-bista/sit725-2024-t1-prac2#readme",
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
